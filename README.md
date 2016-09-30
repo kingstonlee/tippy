@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Upgrading Xcode and Swift made following the example a bit more difficult.  There are a number of syntax and api changes that just needed to be changed on the fly.
 
 ## License
 
